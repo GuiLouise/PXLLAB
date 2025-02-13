@@ -67,11 +67,12 @@
 .section1-main-aside p{
     width: 100%;
 
-    text-align: center;
+    text-align: left;
 
     font-size: 1.3vw;
     font-weight: 300;
 
+    margin: 0 auto;
 
     width: 35vw;
 }
